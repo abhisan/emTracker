@@ -1,0 +1,23 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/action_server_settings">
+    <PreferenceCategory
+        android:summary="@string/action_server_settings"
+        android:title="@string/action_server_settings">
+        <EditTextPreference
+            android:key="server_location"
+            android:title="@string/server_location"
+            android:defaultValue="@string/server_location_value" />
+        <EditTextPreference
+            android:key="server_port"
+            android:title="@string/server_port"
+            android:defaultValue="@string/server_port_value" />
+        <EditTextPreference
+            android:key="route_id"
+            android:title="@string/route_id"
+            android:defaultValue="@string/route_id_value" />
+        <EditTextPreference
+            android:key="client_id"
+            android:title="@string/client_id"
+            android:defaultValue="@string/client_id_value" />
+    </PreferenceCategory>
+</PreferenceScreen>

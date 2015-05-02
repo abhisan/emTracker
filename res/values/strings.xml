@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_tracker">EmTracker</string>
+    <string name="app_client">EmClient</string>
+    <string name="title_activity_maps">EmTracker</string>
+    <string name="title_activity_main">Current Location in Google Map</string>
+
+	<!--Launcher-->
+    <string name="tracker">Tracker</string>
+    <string name="client">Client</string>
+
+	<!--Settings-->
+	<string name="action_server_settings">Settings</string>
+	<string name="menu_settings">Settings</string>
+	<string name="server_location">Server Location</string>
+    <string name="server_port">Server Port</string>
+    <string name="route_id">Route ID</string>
+    <string name="server_location_value"></string>
+    <string name="server_port_value"></string>
+	<string name="route_id_value"></string>
+    <string name="client_id">Client ID</string>
+    <string name="client_id_value"></string>
+</resources>
