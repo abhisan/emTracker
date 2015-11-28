@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EmTracker</string>
+
+    <!--Login settings-->
+    <string name="action_login_settings">Setting</string>
+    <string name="server_location">Server Location</string>
+    <string name="server_port">Server Port</string>
+    <string name="server_location_summary">EM tracker server address</string>
+    <string name="server_port_summary">EM tracker server port</string>
+    <string name="server_io_port_summary">EM IO tracker server port</string>
+
+    <!-- Login activity-->
+    <string name="prompt_id">User ID</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_out">Sign out</string>
+    <string name="error_invalid_login_credentials">This login credential is invalid</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="stay_signed_in">Stay signed in</string>
+
+    <!-- Launcher activity-->
+    <string name="action_start_tracker">Start</string>
+    <string name="action_stop_tracker">Stop</string>
+</resources>

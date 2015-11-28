@@ -1,0 +1,22 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/action_login_settings">
+    <PreferenceCategory
+        android:summary="@string/action_login_settings"
+        android:title="@string/action_login_settings">
+        <EditTextPreference
+            android:defaultValue="104.200.17.97"
+            android:key="server_location"
+            android:summary="@string/server_location_summary"
+            android:title="@string/server_location" />
+        <EditTextPreference
+            android:defaultValue="3000"
+            android:key="server_port"
+            android:summary="@string/server_port_summary"
+            android:title="@string/server_port" />
+        <EditTextPreference
+            android:defaultValue="8082"
+            android:key="io_server_port"
+            android:summary="@string/server_io_port_summary"
+            android:title="@string/server_port" />
+    </PreferenceCategory>
+</PreferenceScreen>

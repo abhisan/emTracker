@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EmTrackerClient</string>
+
+    <!-- Login activity-->
+    <string name="action_login_settings">Setting</string>
+    <string name="server_location">Server Location</string>
+    <string name="server_port">Server Port</string>
+    <string name="server_location_summary">EM tracker server address</string>
+    <string name="server_port_summary">EM tracker server port</string>
+    <string name="server_io_port_summary">EM IO tracker server port</string>
+    <string name="loading">Loading...</string>
+
+
+    <string name="prompt_id">User ID</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_out">Sign out</string>
+    <string name="error_invalid_login_credentials">This login credential is invalid</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="remember_me">Remember Me</string>
+
+    <!-- Launcher activity-->
+    <string name="action_start_client">Start</string>
+    <string name="action_stop_client">Stop</string>
+
+    <!-- Map activity-->
+    <string name="action_map_driver_detail_menu"></string>
+    <string name="action_map_bus_detail_menu"></string>
+
+
+</resources>
